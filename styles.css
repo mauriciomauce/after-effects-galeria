@@ -12,3 +12,8 @@ body{
 .info{
     text-align: justify;
 }
+
+.correo{
+    color: red;
+    text-decoration: none;
+}
